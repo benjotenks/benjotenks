@@ -1,4 +1,12 @@
-### Hi there 👋
+### ¡Hola, Soy Benjamin Elgueta!
+
+## Sobre mi
+Descubri el mundo de la programacion a los 18, y desde entonces solo me he podido maravillar mas y mas.
+
+- **Lenguajes de programacion**: Python, java, c++, c
+- **Herramientas**: Git, MySQL
+
+
 
 <!--
 **benjotenks/benjotenks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
