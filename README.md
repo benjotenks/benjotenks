@@ -1,6 +1,6 @@
 ### ¡Hola, Soy Benjamin Elgueta!
 
-## Sobre mi
+## Sobre mi 🐙
 Estudio Ingenieria Civil Informatica en la universidad Andres Bello.
 Descubri el mundo de la programacion a los 18, y desde entonces solo me he podido maravillar mas y mas.
 
